@@ -1,11 +1,7 @@
-
-
 <!-- Neon Minimalist GitHub Profile -->
-
 <h1 align="center">
   <span style="color:#00f0ff;">⚡ Shopno Banerjee</span>
 </h1>
-
 <p align="center">
   <strong style="color:#9d4bff;">Backend • AI/ML • GenAI Engineering</strong><br>
   <span style="color:#00eaff;">Building scalable systems and high-performance AI applications.</span>
@@ -30,6 +26,11 @@
 
 ---
 
+## <span style="color:#00f0ff;">📊 Coding Stats</span>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6a20abf6-b6dc-47d7-b1ee-e39d06ce305f/6e6babe9-e1be-4c26-aa4d-ba5004f53f9f.png" height="350" /></a>
+
+---
+
 ## <span style="color:#0aff8c;">📫 Connect</span>
 Always open to collaborating on cool high-impact applications.
-
