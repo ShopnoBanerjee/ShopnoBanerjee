@@ -41,6 +41,3 @@
 
 ## <span style="color:#0aff8c;">📫 Connect</span>
 Always open to collaborating on cool high-impact applications.
-```
-
-Both charts are now side by side with the same height (300px). They're wrapped in a centered paragraph tag so they display inline. You can adjust the `height="300"` value on both images if you want them smaller or larger!
