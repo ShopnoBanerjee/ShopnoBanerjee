@@ -28,9 +28,19 @@
 
 ## <span style="color:#00f0ff;">📊 Coding Stats</span>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6a20abf6-b6dc-47d7-b1ee-e39d06ce305f/6e6babe9-e1be-4c26-aa4d-ba5004f53f9f.png" height="350" /></a>
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@6a20abf6-b6dc-47d7-b1ee-e39d06ce305f/6e6babe9-e1be-4c26-aa4d-ba5004f53f9f.png" height="300" />
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@6a20abf6-b6dc-47d7-b1ee-e39d06ce305f/464d8d82-3b66-4799-b573-d9499ec2c865.svg" height="300" />
+  </a>
+</p>
 
 ---
 
 ## <span style="color:#0aff8c;">📫 Connect</span>
 Always open to collaborating on cool high-impact applications.
+```
+
+Both charts are now side by side with the same height (300px). They're wrapped in a centered paragraph tag so they display inline. You can adjust the `height="300"` value on both images if you want them smaller or larger!
